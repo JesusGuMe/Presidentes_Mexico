@@ -4,7 +4,7 @@ Lista de Presidentes de México desde 1970
 
 ## Instalacion
 
-# npm install Presidentes_Mexico
+# npm install presidentes_mexico
 
 ## Uso
 
