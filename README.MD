@@ -1,6 +1,6 @@
 # PRESIDENTES MEXICANOS
 
-Lista de Presidentes de México desde 1970
+Un paquete donde te muestra un presidente de México.
 
 ## Instalacion
 
@@ -10,6 +10,6 @@ Lista de Presidentes de México desde 1970
 
 ----
     javascript
-const presidentes = require('presidentes');
+const presidentes = require('presidentes_mexico');
 
-presidentes.obtienePresi();
+presidentes.obtienePresi;
